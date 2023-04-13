@@ -1,7 +1,7 @@
-import TarpNavigator from "./TarpNavigator.js";
-import CourseNavigator from "./CourseNavigator.js";
-import Modules from "./Modules.js";
-import Sidebar from "./Sidebar.js";
+import TarpNavigator from "../../src/tarp/TarpNavigator.js";
+import CourseNavigator from "../../src/tarp/CourseNavigator.js";
+import Modules from "../../src/tarp/Modules.js";
+import Sidebar from "../../src/tarp/Sidebar.js";
 
 const tarpElement = $('#tarp')
 tarpElement.append(`
